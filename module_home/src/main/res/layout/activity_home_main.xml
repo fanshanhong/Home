@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HomeMainActivity">
+
+    <TextView
+        android:id="@+id/to_cart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="在是 Home页面" />
+
+    <TextView
+        android:id="@+id/to_get_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="to_get_view" />
+
+    <TextView
+        android:id="@+id/num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="这里是结果:" />
+
+
+</LinearLayout>

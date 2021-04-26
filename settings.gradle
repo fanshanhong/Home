@@ -1,0 +1,3 @@
+include ':module_home'
+include ':app'
+rootProject.name = "Home"
